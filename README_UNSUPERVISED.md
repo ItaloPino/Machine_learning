@@ -1,1 +1,11 @@
-
+README.md
+README_UNSUPERVISED.md
+requirements.txt
+.gitignore
+notebooks/2_unsupervised_analysis.ipynb
+notebooks/3_results_interpretation.ipynb
+src/data_loader.py
+src/feature_engineering.py
+src/clustering.py
+src/visualization.py
+docs/CRISP-DM_phase.md
